@@ -38,5 +38,6 @@ public class ReverseLinkedList {
         ReverseLinkedList reverseLinkedList = new ReverseLinkedList();
 //        ListNode listNode = reverseLinkedList.reverseList(head);
         reverseLinkedList.reverse(head);
+        System.out.println(1);
     }
 }
